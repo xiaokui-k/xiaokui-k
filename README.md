@@ -20,7 +20,7 @@
 ---
 </details>
   
-  ✨ 站主目前为运维工程师，该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题，个人博客：https://www.cnblogs.com/kzk520
+  ✨ 站主目前为运维工程师，该站存放本人的一些代码程序。欢迎大家来和我讨论技术上的问题，个人博客：https://www.cnblogs.com/kzk520
  
  
 <!--my introduction end -->
@@ -37,26 +37,6 @@
 </p>
  
 <p align="center">
-  <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
-  &emsp;
- 
-  <a href="#" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-      <a href="#" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-     <a href="#" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
   <a href="https://github.com/xiaokui-k">
     <img src="https://badges.strrl.dev/visits/xiaokui-k/xiaokui-k?style=flat-square&color=black&logo=github">
   </a>
