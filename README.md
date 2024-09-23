@@ -80,19 +80,3 @@
 
  
 <tr><td>
- 
-### 🤾‍♂️ Funny Soul
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:douban -->
-* <a href='#' target='_blank'>kubernetes</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='#' target='_blank'>当幸福来敲门</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
- 
- 
-<!-- END_SECTION:douban -->
- 
-</td></tr>
- 
-<tr><td>
