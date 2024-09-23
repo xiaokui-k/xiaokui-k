@@ -9,10 +9,6 @@
  
 <!--my introduction start-->
 
-- 🤔 Only two things make me moved. 
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/xiaokui-k/xiaokui-k/issues).
- 
 ---
 </details>
   
